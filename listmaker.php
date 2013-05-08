@@ -6,7 +6,7 @@ $offset = $_GET['offset'];
 $listarray = array_slice($listarray, $offset, 1000);
 $i=0;
 //echo "<style>img{height:20px;width:20px;}</style>";
-
+//JOSE!
 
 foreach($listarray AS $key=>$value){
 $i++;
